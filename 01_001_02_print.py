@@ -1,3 +1,3 @@
 a='hello2'
 b='world'
-print(,a+b)
+print(a+b)
